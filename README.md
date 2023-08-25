@@ -24,3 +24,7 @@ cd vue-start-spa
 yarn
 yarn dev
 ```
+
+### 参考
+
+[Vue.js Tutorial: Beginner to Front-End Developer | Youtube](https://www.youtube.com/watch?v=1GNsWa_EZdw)
